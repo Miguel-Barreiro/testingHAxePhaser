@@ -1,0 +1,8 @@
+-main SuperSlick
+-cp src
+-cp libs/phaser/src
+-js /localhost/SuperSlick/SuperSlick.js
+
+-cmd cp -r -f assets/* /localhost/SuperSlick/assets
+
+-cmd cp -r -f libs/phaser/lib/*.* /localhost/SuperSlick/

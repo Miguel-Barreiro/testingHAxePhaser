@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lib" type="Haxe">
+    <CLASSES>
+      <root url="file:///localhost/SuperSlick/phaser/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
